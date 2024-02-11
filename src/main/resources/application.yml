@@ -15,5 +15,5 @@ spring:
   application:
     name: "proguard-example"
   agent:
-    javaagent: "C:\Users\idaoud\OneDrive - Deloitte (O365D)\Desktop\CCCC\applicationinsights-agent-3.4.19.jar"
+    javaagent: "C:/Users/idaoud/OneDrive - Deloitte (O365D)/Desktop/CCCC/applicationinsights-agent-3.4.19.jar"
 
